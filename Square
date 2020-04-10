@@ -1,0 +1,35 @@
+public class Square
+Icon[] icon = 
+{ 
+new ImageIcon(class.getResource("LilyPad.png"));
+    new ImageIcon(class.getResource("Water.png")); 
+    new ImageIcon(class.getResource("LilyPad.png")); 
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("LilyPad.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("GreenFog.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("GreenFog.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("LilyPad.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("GreenFog.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("LilyPad.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("LilyPad.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("LilyPad.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("LilyPad.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("GreenFog.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("RedFrog.png"));
+    new ImageIcon(class.getResource("Water.png"));
+    new ImageIcon(class.getResource("GreenFog.png"));
+}
+JFrame LilyPad = new JFrame ("First Swing"); 
+LilyPad.setVisible(true); 
+LilyPad.setImage("LilyPad.png")
