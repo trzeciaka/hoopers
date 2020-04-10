@@ -1,0 +1,7 @@
+public class Board 
+{
+ImageIcon i = new ImageIcon("Water.png"); 
+JButton b = new JButton(i)
+
+b.setIcon(i); 
+}
